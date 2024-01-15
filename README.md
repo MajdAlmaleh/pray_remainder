@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Main Feature
 
-This project is a starting point for a Flutter application.
+This app send a notification whenever the time before pray come and user can select his own specifics.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 1](screenshots/photo_1_2024-01-15_23-33-03.jpg)
+![Screenshot 2](screenshots/photo_2_2024-01-15_23-33-03.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
